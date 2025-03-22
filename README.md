@@ -49,7 +49,10 @@ I created various visualizations using **Power BI** to gain insights into loan a
 - **Interest Rate and Loan Purpose Analysis:** Gantt chart.
 - **Income vs. Gender:** Donut chart for income distribution.
 - **Credit Score vs. Age & Status:** Line plot to understand credit score patterns.
-- **Dashboard Overview**
+## Dashboard Overview
+
+Figure 2: Power BI visualization of loan trends  
+![Power BI Dashboard]([https://github.com/YourGitHubUsername/Capstone_Project_1/blob/main/your-image-name.png](https://github.com/ismail-hasan-tanjer/loan-default-prediction/blob/main/Capstone_Project_Loan_Default%20project_page-0001%20(2).jpg))
 
 **Figure 2:** Power BI visualization of loan trends
 
