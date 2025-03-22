@@ -51,8 +51,8 @@ I created various visualizations using **Power BI** to gain insights into loan a
 - **Credit Score vs. Age & Status:** Line plot to understand credit score patterns.
 ## Dashboard Overview
 
-Figure 2: Power BI visualization of loan trends  
-![Power BI Dashboard]([https://github.com/YourGitHubUsername/Capstone_Project_1/blob/main/your-image-name.png](https://github.com/ismail-hasan-tanjer/loan-default-prediction/blob/main/Capstone_Project_Loan_Default%20project_page-0001%20(2).jpg))
+ 
+![Power BI Dashboard](https://github.com/YourGitHubUsername/Capstone_Project_1/blob/main/your-image-name.png](https://github.com/ismail-hasan-tanjer/loan-default-prediction/blob/main/Capstone_Project_Loan_Default%20project_page-0001%20(2).jpg)
 
 **Figure 2:** Power BI visualization of loan trends
 
