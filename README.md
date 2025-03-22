@@ -35,6 +35,9 @@ The project follows a structured approach:
 - **Code Implementation:** ETL, streaming data processing, and inferencing models in a real-time environment with **Databricks**.
 
 ### 3.2 Workflow
+
+![Capstone Project Workflow](https://github.com/ismail-hasan-tanjer/loan-default-prediction/blob/main/Workflow---.jpg)
+
 **Figure 1:** Workflow of the capstone project
 
 ---
